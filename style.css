@@ -1,0 +1,23 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.title {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+body.img {
+    width: 300px;
+    height: auto;
+}
+
+ul li {
+    list-style-type: circle;
+}
+
+a {
+    color: gray;
+    font-weight: bold;
+}
