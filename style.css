@@ -1,5 +1,6 @@
 * {
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
 }
 
 .title {
@@ -8,10 +9,27 @@
     text-align: center;
 }
 
-body.img {
+/* Div .imagen */
+
+.imagen {
+    width: 600px; 
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+    padding: 32px;
+    border: 5px dashed rgb(100, 200, 200);
+}
+
+img {
+    display: block;
     width: 300px;
     height: auto;
+    margin: 0 auto;
+
+    border: 2px solid black;
 }
+
+/* Div .container */
 
 ul li {
     list-style-type: circle;
@@ -20,4 +38,36 @@ ul li {
 a {
     color: gray;
     font-weight: bold;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container ul li {
+    list-style-type: none;
+}
+
+.container a {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Div .informacion */
+
+.informacion {
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid black;
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.informacion h2 {
+    background-color: rgba(47, 47, 47, 0.2);
+    padding: 2px;
+    margin-bottom: -3px;
 }
