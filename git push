@@ -1,0 +1,89 @@
+[33mcommit 146c4f070c2344fbc81aa519c9bfa63dfdc9224e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Thu Jun 20 14:06:46 2024 -0300
+
+    Estuve aplicando los selectores nuevos y formateando las páginas en general
+
+[33mcommit 65ffe465e4ff9ebd3dc5561375defa3d144e786c[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Thu Jun 20 14:06:24 2024 -0300
+
+    Estuve agregando nuevos selectores para la página web
+
+[33mcommit 761d9a5211e1e8ccfe3cb7fcc2b99b63f8ef2cc9[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Thu Jun 20 14:06:04 2024 -0300
+
+    Metí adentro de un div contenedor a los enlaces
+
+[33mcommit 41a746bbf07010cc935e05e82276f63aa93f6850[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Thu Jun 20 11:38:43 2024 -0300
+
+    Estuve aplicando selectores y agregando un link que te lleve de regreso al inicio
+
+[33mcommit 0f30cdf10a18fd26a18197ac698b408c2b5a94b1[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Thu Jun 20 11:38:15 2024 -0300
+
+    Estuve aplicando los selectores que agregué en el .css
+
+[33mcommit 9462d2f18786f0f05d55bb2ebd4f285364a0755e[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Thu Jun 20 11:37:54 2024 -0300
+
+    Estuve agregando nuevos selectores para la página
+
+[33mcommit fd97a33e4c3a517a2e84bd2f84086e8f60cd8ab5[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Tue Jun 18 14:10:30 2024 -0300
+
+    Agregué los enlaces que faltaban
+
+[33mcommit 42054bff907abe3a9d2ad4f68ddcf9e67d25f78a[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Tue Jun 18 14:09:20 2024 -0300
+
+    Cambié los titulos de las recetas
+
+[33mcommit 5eeaab3109dea058f92dc442595f925d02e60efb[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Tue Jun 18 14:09:03 2024 -0300
+
+    Agregué una receta de omelette
+
+[33mcommit 3eca1c19ac28867ee8b535461d51b5b4a1097ab4[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Tue Jun 18 14:02:14 2024 -0300
+
+    Agregué una receta de milanesas
+
+[33mcommit 75b30f4867aed73381bf6ab9e3adc620ace6a7d2[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Mon Jun 17 15:06:17 2024 -0300
+
+    Agregué una receta a la página principal, y también agregué una nueva carpeta 'recipes' donde agregué otra pagina para una receta de lasaña
+
+[33mcommit be4aea83328980cf0345ba768df80e7812779940[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Mon Jun 17 15:00:22 2024 -0300
+
+    Cree un nuevo directorio
+
+[33mcommit 2a9fb41dc7b4b2d7e2fa4941b1196bcd1e0eb471[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Mon Jun 17 14:59:17 2024 -0300
+
+    Agregué el encabezado
+
+[33mcommit ef3f2d160226f2f767da030355b3e5dea05e4053[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Mon Jun 17 14:57:35 2024 -0300
+
+    Agregué un README.md
+
+[33mcommit f5c00333151c8d1de3ffd8f9531d36b30ade56bf[m
+Author: MarianoBVidal <marianobazalarvidal@gmail.com>
+Date:   Mon Jun 17 14:51:11 2024 -0300
+
+    Agregué el archivo index.html
